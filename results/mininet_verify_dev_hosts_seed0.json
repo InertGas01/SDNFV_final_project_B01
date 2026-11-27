@@ -1,0 +1,35 @@
+{
+  "scale": "dev",
+  "scenario": "hosts",
+  "seed": 0,
+  "c0_exact_match": true,
+  "all_exact_match": true,
+  "steps": [
+    {
+      "old_version": 1,
+      "new_version": 2,
+      "sim_ops_install": 700,
+      "measured_ops_install": 700,
+      "sim_ops_total": 1616,
+      "measured_ops_total": 1616,
+      "sim_max_overhead_pct": 80.7692,
+      "measured_max_overhead_pct": 80.7692,
+      "ops_exact_match": true,
+      "peak_exact_match": true,
+      "final_count_exact_match": true
+    },
+    {
+      "old_version": 2,
+      "new_version": 3,
+      "sim_ops_install": 398,
+      "measured_ops_install": 398,
+      "sim_ops_total": 1008,
+      "measured_ops_total": 1008,
+      "sim_max_overhead_pct": 76.3158,
+      "measured_max_overhead_pct": 76.3158,
+      "ops_exact_match": true,
+      "peak_exact_match": true,
+      "final_count_exact_match": true
+    }
+  ]
+}
